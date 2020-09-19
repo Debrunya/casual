@@ -3,6 +3,7 @@ using namespase std;
 
 int main()
 {
-cout << "Hello" << endl;
+int a = 5, b = 4;
+cout << "Hello" << a + b << endl;
 return 0;
 }
