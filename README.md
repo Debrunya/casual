@@ -1,2 +1,2 @@
-# Rep for casual tasks and transfer beeween PCs
-vkr imitations for queueing theory
+# Rep for casual tasks and transfer files beetween PCs
+added vkr imitations for queueing theory
